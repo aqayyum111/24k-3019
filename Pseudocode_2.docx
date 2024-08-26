@@ -1,0 +1,7 @@
+Take three variables as input and add them without using the + operator (Use your head for this)
+
+  START
+ Input A,B and C
+   Using function (A)-(-B)-(-C)
+  Output=Sum Of A,B and C
+  END
