@@ -1,0 +1,8 @@
+Find the maximum number in any of three variables.
+
+  START
+Input A,B,C
+If A>B, A>C then Print A is max
+If B>A, B>C then Print B is max
+Else Print C is max
+  END
