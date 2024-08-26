@@ -1,0 +1,12 @@
+Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs withone being used for the operator)
+
+STRAT
+  Input Variable A
+  Input operator +,-
+  Input Variable B
+    If operator=+
+  Then output=A+B which is > A and B
+    If operator=-
+  Then output=A-B which is < A and B
+END
+  
