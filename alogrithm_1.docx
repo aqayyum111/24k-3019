@@ -1,0 +1,8 @@
+Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).If so, determine if it’s an even number or odd number as well.
+
+ASK user for number 1
+ASK user for number 2
+IF NUM 1/NUM 2=decimal numer then DISPLAY 'Not divisible'
+ELSE DISPLAY 'DIVISIBLE'
+IF ANSWER divisible by 2 DISPLAY'Even'
+  ELSE DISPLAY 'Odd'
