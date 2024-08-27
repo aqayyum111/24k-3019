@@ -1,0 +1,3 @@
+Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+
+Ask User 
