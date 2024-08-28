@@ -1,0 +1,4 @@
+Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+
+Ask User for a number
+Check the number against the position of the months in thsi order ( January,February,March,April,May,June,July,August,September,October,November,December)
