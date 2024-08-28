@@ -1,0 +1,11 @@
+Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+Ask the user for a number
+Ask the user for another number
+Ask the user for an operator
+If the operator is + THEN SET Output=NUM1+NUM2
+If the Operator is - THEN SET Output=NUM1-NUM2
+If the Operator is * THEN SET Output=NUM1*NUM2
+If the Operator is / THEN SET Output=NUM1/NUM2
+If the Operator is % Then SET Output=Modulus Of (NUM1/NUM2)
+Display Output Number.
